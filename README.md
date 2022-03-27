@@ -1,6 +1,7 @@
 NLP_Assignement
 
 There are 5 notebooks in the repository , each notebook have a description and approach at the top : 
+
 Problem 1 : Consolidation of similar amenities  : 
     Notebook Used : finding_similar_words.ipynb
     Output : similar_words_processed_amenities_v2.csv --> This has amenities and there corresponding similar amenities at different threshold
